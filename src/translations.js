@@ -359,12 +359,7 @@ export const experiencesData = [
           en: "Designed and deployed a P2P marketplace allowing students to lease, share, or sell academic books. Optimized user acquisition and localized payment interfaces to cut down student educational expenses.",
           ja: "学生が学術書を貸し借り、共有、または販売できるP2Pマーケットプレイスを設計・導入。学生の教育費用を削減するために、ユーザー獲得とローカライズされた決済インターフェースを最適化しました。"
         },
-        demo: { 
-          images: [
-            "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&q=80&w=1200"
-          ],
-          videos: []
-        } 
+        demo: null
       },
       {
         tech: ["Fullstack Architecture", "UI/UX Refinement", "Social Platform"],
