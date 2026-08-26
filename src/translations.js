@@ -16,7 +16,7 @@ export const uiTranslations = {
     downloadResume: "Tải Bản Tóm Tắt CV (PDF)",
     aboutTitle: "Về Tôi",
     aboutP1: "Được đào tạo bài bản theo chương trình kỹ sư phần mềm chuẩn hóa chuẩn quốc tế Carnegie Mellon University (CMU) tại Đại học Duy Tân kết hợp hệ thống huấn luyện chuyên nghiệp tại Softech Aptech, tôi tích lũy nền tảng vững vàng về tư duy thuật toán, cấu trúc dữ liệu và thiết kế kiến trúc hệ thống quy mô lớn.",
-    aboutP2: "Trải nghiệm thực tế tại doanh nghiệp với vị trí Kỹ sư R&D tại ESTEC và thực tập sinh tại DNPC đã trang bị cho tôi năng lực xử lý trực tiếp những bài toán khó thuộc hạ tầng công nghiệp và vận hành doanh nghiệp. Từ việc xây dựng giải pháp IoT thời gian thực cảnh báo cháy rừng diện rộng cho đến việc áp dụng trí tuệ nhân tạo (AI) giúp tối ưu hóa hiệu năng lò nung và số hóa hoàn toàn quy trình quản lý kho thông minh.",
+    aboutP2: "Đã từng đảm nhiệm vị trí Kỹ sư Nghiên cứu & Phát triển (R&D) với tư duy phát triển giải pháp toàn diện (End-to-End), có khả năng làm chủ trọn vẹn vòng đời dự án: từ phân tích yêu cầu khách hàng (BrSE/PM), thiết kế hệ thống & UI/UX, lập trình, kiểm thử đến triển khai và bảo trì. Sở hữu tinh thần linh hoạt về công nghệ (Tech-Agnostic) cùng khả năng tự học – tự nghiên cứu (Work-study) cực nhanh để chọn lựa và làm chủ công nghệ tối ưu nhất cho từng bài toán. Sẵn sàng đi công tác, làm việc trực tiếp tại văn phòng đối tác để hỗ trợ và phát triển dự án hiệu quả.",
     expTitle: "Kinh Nghiệm & Dự Án Thực Chiến",
     tabAll: "Tất cả",
     skillsTitle: "Kỹ Năng Chuyên Môn",

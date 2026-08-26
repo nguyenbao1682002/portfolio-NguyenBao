@@ -193,8 +193,8 @@ export default function App() {
           </div>
 
           <motion.a 
-            href="/CV_TRAN_NGUYEN_BAO.pdf" 
-            download 
+            href="/TRAN NGUYEN BAO_CV.pdf" 
+            download="TRAN NGUYEN BAO_CV.pdf" 
             whileHover={{ scale: 1.02, y: -2 }}
             whileTap={{ scale: 0.98 }}
             className="w-full block text-center bg-linear-to-r from-purple-500 to-pink-500 text-white font-bold py-3 px-4 rounded-xl text-xs hover:opacity-90 transition-all cursor-pointer shadow-lg shadow-purple-500/20"
@@ -696,7 +696,6 @@ export default function App() {
       {/* Footer */}
       <footer className="max-w-6xl mx-auto px-6 py-8 border-t border-slate-900/60 text-center text-[10px] text-slate-600 flex justify-between items-center">
         <p>© 2026 Tran Nguyen Bao.</p>
-        <p>Dynamic Interactive Demos Integrated.</p>
       </footer>
     </div>
   );
