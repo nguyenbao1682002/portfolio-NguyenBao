@@ -153,13 +153,13 @@ export const experiencesData = [
         },
         demo: { 
           images: [
-            "/public/img_WildFire/Home_WildFire.png",
-            "/public/img_WildFire/Tram_WildFire.png",
-            "/public/img_WildFire/Camera_wfr.png",
-            "/public/img_WildFire/camera.png",
-            "/public/img_WildFire/history_wfr.png",
-            "/public/img_WildFire/map_wfr.png",
-            "/public/img_WildFire/solution_wfr.png",
+            "/img_WildFire/Home_WildFire.png",
+            "/img_WildFire/Tram_WildFire.png",
+            "/img_WildFire/Camera_wfr.png",
+            "/img_WildFire/camera.png",
+            "/img_WildFire/history_wfr.png",
+            "/img_WildFire/map_wfr.png",
+            "/img_WildFire/solution_wfr.png",
           ], 
         }
       },
@@ -219,12 +219,12 @@ export const experiencesData = [
         },
         demo: { 
           images: [
-            "/public/img_WS/Dasboard.png",
-            "/public/img_WS/Chitiet.png",
-            "/public/img_WS/chitiet1.png",
-            "/public/img_WS/group.png",
-            "/public/img_WS/import.png",
-            "/public/img_WS/Infor.png",
+            "/img_WS/Dasboard.png",
+            "/img_WS/Chitiet.png",
+            "/img_WS/chitiet1.png",
+            "/img_WS/group.png",
+            "/img_WS/import.png",
+            "/img_WS/Infor.png",
           ],
         }
       },
@@ -242,13 +242,13 @@ export const experiencesData = [
         },
         demo: { 
           images: [
-            "/public/img_khtc/detail.png",
-            "/public/img_khtc/file.png",
-            "/public/img_khtc/file1.png",
-            "/public/img_khtc/loading.png",
-            "/public/img_khtc/loading2.png",
-            "/public/img_khtc/file3.png",
-            "/public/img_khtc/logaction.png",
+            "/img_khtc/detail.png",
+            "/img_khtc/file.png",
+            "/img_khtc/file1.png",
+            "/img_khtc/loading.png",
+            "/img_khtc/loading2.png",
+            "/img_khtc/file3.png",
+            "/img_khtc/logaction.png",
           ],
         }
       },
@@ -266,14 +266,14 @@ export const experiencesData = [
         },
         demo: { 
           images: [
-            "/public/img_TH/login.png",
-            "/public/img_TH/db.png",
-            "/public/img_TH/home.png",
-            "/public/img_TH/map.png",
-            "/public/img_TH/camera.jpg",
-            "/public/img_TH/camera1.jpg",
-            "/public/img_TH/help.png",
-            "/public/img_TH/role.png"
+            "/img_TH/login.png",
+            "/img_TH/db.png",
+            "/img_TH/home.png",
+            "/img_TH/map.png",
+            "/img_TH/camera.jpg",
+            "/img_TH/camera1.jpg",
+            "/img_TH/help.png",
+            "/img_TH/role.png"
           ],
         }
       }
