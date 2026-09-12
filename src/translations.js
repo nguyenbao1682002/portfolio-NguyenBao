@@ -131,7 +131,7 @@ export const experiencesData = [
     category: "industrial",
     company: "Global Maritime Engineering & Monitoring Technology Co., Ltd (ESTEC)",
     shortCompany: "ESTEC (R&D)",
-    role: { vi: "Kỹ sư R&D", en: "R&D Engineer", ja: "R&Dエンジニア" },
+    role: { vi: "Kỹ sư Phần Mềm R&D", en: "Full-Stack R&D Software Engineer", ja: "R&Dエンジニア" },
     duration: "Apr. 2025 - Jun. 2026",
     description: {
       vi: "Tham gia nghiên cứu và phát triển các giải pháp phần mềm lõi phục vụ quản lý công nghiệp, tự động hóa kho bãi và ứng dụng AI/IoT vào thực tiễn doanh nghiệp.",

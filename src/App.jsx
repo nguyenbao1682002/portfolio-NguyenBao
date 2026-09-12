@@ -155,7 +155,7 @@ export default function App() {
             Tran Nguyen <br />
             <span className="bg-linear-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent">Bao</span>
           </motion.h1>
-          <motion.p variants={fadeInUpVariants} className="text-xl text-slate-400 font-medium">Software Engineer & Industrial R&D Specialist</motion.p>
+          <motion.p variants={fadeInUpVariants} className="text-xl text-slate-400 font-medium">Full-Stack R&D Software Engineer</motion.p>
           <motion.p variants={fadeInUpVariants} className="text-slate-400 max-w-xl leading-relaxed text-sm md:text-base">{t.heroDesc}</motion.p>
           
           <motion.div variants={fadeInUpVariants} className="flex flex-wrap gap-3 pt-2">
@@ -563,7 +563,7 @@ export default function App() {
                 </div>
                 )}
 
-                <div className="p-6 flex flex-col items-center justify-center min-h-[300px] bg-slate-950/20 overflow-y-auto">
+                <div className="p-6 flex flex-col items-center justify-center min-h-75 bg-slate-950/20 overflow-y-auto">
                 <AnimatePresence mode="wait">
                   {selectedProject.demo ? (
                     demoTab === 'image' ? (
